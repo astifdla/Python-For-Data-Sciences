@@ -1,6 +1,8 @@
 # Python-For-Data-Sciences
 Python For Data Sciences From Cognitive.Class AI 
+
 Berikut adalah Pengerjaan kami 
+
 Klasifikasi Dikerjakan Oleh : Meila  Adisty Putri (  Universitas Bhayangkara Jakarta Raya )
 Berjudul : Project Micro Phython Author Bye : Meila 
 Link Google Colab : https://colab.research.google.com/drive/1owl_qsUQSjXv8kpxQMDvHgVG1v_mSOwi?usp=sharing
